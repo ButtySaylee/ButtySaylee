@@ -25,8 +25,7 @@
 
 ## 🚀 About Me
 
-**Dynamic B.Tech Software Engineering student with a minor in Cyber Forensic and Cyber Law.**  
-BTech Software Engineering graduate from Delhi Technological University with a minor in Cyber Forensics & Cyber Law. 
+**BTech Software Engineering graduate from Delhi Technological University with a minor in Cyber Forensics & Cyber Law**. 
 Proven experience building full-stack Python applications, securing APIs, analyzing data at scale, and delivering QA across 
 production environments. Holds Google certifications in Technical Support and Cybersecurity. Seeking entry-level roles in 
 Software Engineering, Cybersecurity, IT Support, or Technical Support. 
