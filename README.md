@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Butty Saylee 👋</h1>
-<h3 align="center">Versatile Software Engineering Student | Data Analyst | Virtual Assistant | Full-Stack Developer</h3>
+<h3 align="center">Software Engineer  | Cybersecurity  |  IT & Technical Support | Virtual Assistant </h3>
 
 <p align="center">
   <a href="https://butty-portfolio.vercel.app/" target="_blank">
@@ -26,14 +26,14 @@
 ## 🚀 About Me
 
 **Dynamic B.Tech Software Engineering student with a minor in Cyber Forensic and Cyber Law.**  
-Skilled in Python-based full-stack development, data analysis, virtual assistance, and technical support.  
-Proven experience building scalable tools for 100+ users, ensuring data privacy, and collaborating on cross-functional teams to deliver impactful solutions.  
-Eager to leverage analytical thinking and problem-solving in innovative environments across tech, research, and administrative roles.
-
----
+BTech Software Engineering graduate from Delhi Technological University with a minor in Cyber Forensics & Cyber Law. 
+Proven experience building full-stack Python applications, securing APIs, analyzing data at scale, and delivering QA across 
+production environments. Holds Google certifications in Technical Support and Cybersecurity. Seeking entry-level roles in 
+Software Engineering, Cybersecurity, IT Support, or Technical Support. 
 
 ## 🏆 Highlights & Achievements
-
+- **Quality Assurance Freelancer (LEAD Group)**: Conducted end-to-end QA reviews of educational books across multiple grade levels, verifying technical accuracy, 
+grammar, and formatting against editorial standards
 - **Apnapan Fellow (Data/Software Engineering Intern)**: Developed data-driven platforms for educators, boosting efficiency by 40%.
 - **PR Strategist Intern (Swanirbhar)**: Synthesized insights from 50+ surveys, enhanced stakeholder decision-making, and contributed to social entrepreneurship.
 - **Remote Virtual Assistant (HYPLEY PTY LTD, USA)**: Streamlined marketplace operations for 200+ listings and created engaging content.
@@ -74,7 +74,6 @@ Eager to leverage analytical thinking and problem-solving in innovative environm
 
 **Delhi Technological University, Delhi, IN**  
 _B.Tech in Software Engineering_ (Minor: Cyber Forensic and Cyber Law)  
-Expected Graduation: 2026
 
 - **The Joy of Computing Using Python** (IIT Madras / NPTEL): Elite certification
 - **IBM Introduction to Software Engineering** (Coursera)
