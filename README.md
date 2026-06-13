@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ButtySaylee/butty-portfolio/main/public/banner.png" alt="Butty Saylee | Software Engineer | Data Analyst | Virtual Assistant" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFGV0mvze4q3w/profile-displaybackgroundimage-shrink_350_1400/B56Z6_6Fh9G4AY-/0/1781336136105?e=1782950400&v=beta&t=0Lj2KkRkm4ydohY-ksSVDLXa_dpiYnSV-1ef6ilxud0" alt="Butty Saylee | Software Engineer | Data Analyst | Virtual Assistant" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Butty Saylee 👋</h1>
