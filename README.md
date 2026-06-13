@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/buttysaylee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src=""C:\Users\Hp\Downloads\bio.png"" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ButtySaylee" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
